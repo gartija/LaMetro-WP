@@ -6,10 +6,10 @@ header,nav,section,article,aside,figure,footer { display:block; }
 /* The main theme structure */
 #colophon, #main, #wrapper {margin:0 auto; width:800px}
 #main{clear:both; overflow:visible; padding:0}
-#wrapper {margin-top:22px; padding:0 16px; position: relative; z-index: 1;}
+#wrapper {padding:0 16px; position: relative; z-index: 1;}
 
 /* Structure the header area */
-header {display:table; vertical-align:middle; position:relative; padding:22px 0 44px;}
+header {display:table; vertical-align:middle; position:relative; padding:10px 0;}
 
 /* Structure the footer area */
 footer { margin-bottom:22px; clear:both; width:100%; }
